@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,t as r}from"./index-60599465.js";const n={data(){return{id:this.$route.params.id}}};function s(i,c,p,d,e,l){return a(),o("div",null," Hello from new Jawad main id = "+r(e.id),1)}const f=t(n,[["render",s]]);export{f as default};
